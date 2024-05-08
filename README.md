@@ -4,6 +4,10 @@ ___
 # Why?
 I often coding for a long time without a break time(for 2,3 hours without break time), and that's very awful for my health during a long time. So I made this extremely simple software for managing my work time (For e.x : Set up a countdown for 50 mins, after that take a 10-min break time). Although it's really simple app I made with Python, after a few time using it - my health and performance significantly improved.
 ___
+# Demo
+![bandicam 2024-05-08 20-42-47-660](https://github.com/ScadeBlock/ZTimer/assets/89845150/7d949f76-4aa0-4dd2-b68b-4d8be0b14b04)
+
+___
 # Installation
 For executable file (.exe) : Just install files from Release Tab and run it 
 
